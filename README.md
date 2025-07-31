@@ -27,14 +27,12 @@ You can also train your dataset following the directory sturture below!
 ## Training
 ```
 python main.py
-
 ```
 
 ## Test
 ```
 python eval.py
 python eval_VISO.py
-
 ```
 
 ### Qualitative results
